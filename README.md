@@ -1,2 +1,2 @@
-# Django_first_blog
+# Django_blog
 blog
